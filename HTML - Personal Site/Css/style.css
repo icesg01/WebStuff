@@ -13,16 +13,17 @@ a:visited{
 img{
   width:50%;
   max-width:100vw;
-  height:auto;
+  height:50%;
   max-height:100vh;
   float:left;
+  border-radius:100%;
 }
 hr{
   border-style: dotted none none;
   border-color: #707070;
   border-width: 3px;
   height:2px;
-
+  
 }
 
 .float {
