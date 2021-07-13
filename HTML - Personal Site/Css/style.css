@@ -38,6 +38,7 @@ h1,h3{
 }
 
 .spacer {
-  width:calc(50% - 30px);
+  width:calc(50% - 50px);
+  margin-right:20px;
   float:right;
 }
