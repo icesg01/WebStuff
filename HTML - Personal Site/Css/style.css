@@ -16,7 +16,7 @@ img{
   height:50%;
   max-height:50vh;
   float:left;
-  border-radius:100%;
+  border-radius:25%;
 }
 hr{
   border-style: dotted none none;
